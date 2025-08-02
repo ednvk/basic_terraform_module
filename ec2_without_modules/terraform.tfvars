@@ -1,0 +1,6 @@
+ami-value = "ami-020cba7c55df1f615"
+instance_value = "t2.micro"
+subnet-value = "subnet-08b25beae0ce40f58"
+sg-value = "sg-01ba525f36fdc82e8"
+tag_value = "Docker-Server"
+key_value = "ubuntuKeyPair"
